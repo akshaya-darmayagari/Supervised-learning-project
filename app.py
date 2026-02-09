@@ -86,7 +86,7 @@ hr {
 
 
 
-st.title("🎓 Student Performance Regression Dashboard")
+st.title("🎓 Student Performan Prediction Dashboard")
 
 # ---------------- SESSION STATE ----------------
 if "model" not in st.session_state:
@@ -248,3 +248,4 @@ st.markdown("""
 Supervised Learning Regression Project | Built with Streamlit 🎓
 </center>
 """, unsafe_allow_html=True)
+
